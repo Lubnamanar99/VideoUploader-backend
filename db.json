@@ -1,0 +1,89 @@
+{
+  "videos": [
+    {
+      "id": 2,
+      "title": "Anuv Jain - ALAG AASMAAN (a song on the ukulele)",
+      "cover_img": "https://img.youtube.com/vi/vA86QFrXoho/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/vA86QFrXoho?autoplay=1"
+    },
+    {
+      "id": 3,
+      "title": "Ali Gatie - It's You [Official Music Video]",
+      "cover_img": "https://img.youtube.com/vi/F-cO2CMue4Q/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/F-cO2CMue4Q?autoplay=1"
+    },
+    {
+      "id": "lpweick2",
+      "title": "Bayaan - Nahin Milta (Official Video)",
+      "cover_img": "https://img.youtube.com/vi/umsrQSA2iOM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/umsrQSA2iOM?autoplay=1"
+    },
+    {
+      "id": 4,
+      "title": "Learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js)",
+      "cover_img": "https://img.youtube.com/vi/7CqJlxBYj-M/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/7CqJlxBYj-M?autoplay=1"
+    },
+    {
+      "id": "lpweqtgj",
+      "title": "\\\"Down the Road\\\" (Indie Mystery Movie)",
+      "cover_img": "https://img.youtube.com/vi/lvBKf-2bOKw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/lvBKf-2bOKw?autoplay=1"
+    },
+    {
+      "id": "lpwet1v6",
+      "title": "Python Full Course for free 🐍",
+      "cover_img": "https://img.youtube.com/vi/XKHEtdqhLK8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/XKHEtdqhLK8?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "lq5ha8sn",
+      "name": "Entertainment",
+      "videos": []
+    },
+    {
+      "id": "EBnLEKu",
+      "name": "Education",
+      "videos": []
+    }
+  ],
+  "histories": [
+    {
+      "id": "lq2dgnad",
+      "date": " 6:52 PM 12-12-2023",
+      "video_title": "Anuv Jain - ALAG AASMAAN (a song on the ukulele)"
+    },
+    {
+      "id": "lq2diwtf",
+      "date": " 6:53 PM 12-12-2023",
+      "video_title": "Tom & Jerry"
+    },
+    {
+      "id": "lq5b6clo",
+      "date": " 8:11 PM 14-12-2023",
+      "video_title": "Bayaan - Nahin Milta (Official Video)"
+    },
+    {
+      "id": "lq5ef326",
+      "date": " 9:42 PM 14-12-2023",
+      "video_title": "Python Full Course for free 🐍"
+    },
+    {
+      "id": "lq6gdxue",
+      "date": " 3:25 PM 15-12-2023",
+      "video_title": "Bayaan - Nahin Milta (Official Video)"
+    },
+    {
+      "id": "lq6h978m",
+      "date": " 3:49 PM 15-12-2023",
+      "video_title": "Ali Gatie - It's You [Official Music Video]"
+    },
+    {
+      "id": "lq6r0u54",
+      "date": " 8:22 PM 15-12-2023",
+      "video_title": "Bayaan - Nahin Milta (Official Video)"
+    }
+  ]
+}
